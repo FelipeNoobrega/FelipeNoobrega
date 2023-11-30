@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B088A&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Nóbrega+Cardoso+Pardo;I'm+27+years+old;I'm+from+Brazil;I'm+Studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Nóbrega+Cardoso+Pardo;I'm+28+years+old;I'm+from+Brazil;I'm+Studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -10,7 +10,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HenriqueDiasSilva&bg_color=0d1117&color=fcfcfc&line=4B088A&point=01DF01&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FelipeNoobrega&bg_color=0d1117&color=fcfcfc&line=4B088A&point=01DF01&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
